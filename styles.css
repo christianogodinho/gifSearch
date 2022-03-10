@@ -3,7 +3,7 @@ body {
     margin: 0;
     background: linear-gradient(to right, #00AAFF, #cc5c00);
     display: grid;
-    position: center;
+    align-items: center;
 }
 
 .texto {
